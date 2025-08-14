@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>meu site 2</title>
+</head>
+<body>
+   <header>
+    <h1>hello, world!</h1>
+    <p>Que bom te ver por aqui, <span id="nome-usuario">jorginho</span></p>
+   </header>
+    
+<section id="conteudo">
+    <div>
+        <h2>HTML</h2>
+        <p><span class="texto-ingles">hypertextmarkaplanguage</span><br>
+        (em português) linguagemde marcação de hyper texto<br>
+        - estrutura da pagina web.</p>
+        
+        <h2>HTML</h2>
+        <p><span class="texto-ingles">hypertextmarkaplanguage</span><br>
+        (em português) linguagemde marcação de hyper texto<br>
+        - estrutura da pagina web.</p>
+    </div>
+ </section>
+</body>
+</html>
