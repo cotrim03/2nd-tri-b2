@@ -18,12 +18,15 @@
         <p><span class="texto-ingles">hypertextmarkaplanguage</span><br>
         (em português) linguagemde marcação de hyper texto<br>
         - estrutura da pagina web.</p>
-        
-        <h2>HTML</h2>
-        <p><span class="texto-ingles">hypertextmarkaplanguage</span><br>
-        (em português) linguagemde marcação de hyper texto<br>
-        - estrutura da pagina web.</p>
-    </div>
+
+        <h2>CSS</h2>
+        <p><span class="texto-ingles">Cascading Style Sheet</span><br>
+        (em português) folha de estilo em cascata<br>
+        - estiliza a sua pagina web</p>
+
+
+ </div>
+ <img src=""
  </section>
 </body>
 </html>
